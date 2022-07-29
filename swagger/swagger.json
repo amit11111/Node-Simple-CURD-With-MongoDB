@@ -1,0 +1,23 @@
+{
+    "swagger": "2.0",
+    "OpenAPI": "3.0.0",
+    "info": {
+        "description": "Test",
+        "version": "1.0.0",
+        "title": "test",
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    },
+    "schemes": [
+        "http",
+        "https"
+    ],
+    "host": "18.170.51.16:3000",
+    "basePath": "/v1",
+    "tags": [
+        
+    ],
+    "paths": {}
+}
